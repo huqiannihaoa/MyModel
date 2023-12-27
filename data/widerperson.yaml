@@ -1,0 +1,14 @@
+path: ./widerperson/
+
+train: train/images
+val: val/images
+test: test  #images_test
+#test: test.txt
+
+#number of classes
+#nc: 1
+
+# class names
+names:
+  0: person
+
